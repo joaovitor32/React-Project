@@ -1,4 +1,4 @@
-<h6>Código desenvolvido no curso: ReactJs, NodeJs, Express & MongoDB - The MERN fullstack guide -Maximilian Schwarzmüller/h6>
+<h6>Código desenvolvido no curso: ReactJs, NodeJs, Express & MongoDB - The MERN fullstack guide -Maximilian Schwarzmüller</h6>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
