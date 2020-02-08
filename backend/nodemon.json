@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"buzinaAcademind",
+        "DB_PASSWORD":"mensalao63",
+        "DB_NAME":"mern",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
